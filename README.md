@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   
 <a href="https://github.com/wjehee/github-stats#gh-dark-mode-only">
