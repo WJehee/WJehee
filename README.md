@@ -5,7 +5,7 @@
 
 - I'm Wouter, a cybersecurity engineer from the Netherlands
 - Learning Software Defined Radio hacking
-- Building a platform for GPS based games
+- Building a platform for games that involve maps
 
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
