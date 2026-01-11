@@ -3,7 +3,8 @@
 
 ### Wouter Jehee
 
-**`Software / Security Engineer`** -> I build and break things (often my own...)
+**`Software / Security Engineer`**  
+I build and break things (often my own...)
 
 <br>
 <br>
